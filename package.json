@@ -28,5 +28,6 @@
     , "gzippo": "latest"
     , "async": "latest"
     , "nodemon": "latest"
+    , "coffee-script": "latest"
   }
 }
