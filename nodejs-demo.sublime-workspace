@@ -1,0 +1,2246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"imag",
+				"image_url"
+			],
+			[
+				"cle",
+				"clearfix"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"app",
+				"apply_to"
+			],
+			[
+				"desk",
+				"desktop-large"
+			],
+			[
+				"des",
+				"desktop-large"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"up",
+				"upvotes_links"
+			],
+			[
+				"an",
+				"answer-button"
+			],
+			[
+				"bin",
+				"bindCallbackToDeleteLinks"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"appe",
+				"appearEffect"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"a",
+				"ass: assert_select"
+			],
+			[
+				"table",
+				"table: <table>"
+			],
+			[
+				"to",
+				"to_json  (function)"
+			],
+			[
+				"nil",
+				"nil  (function)"
+			],
+			[
+				"def",
+				"def: def … end"
+			],
+			[
+				"de",
+				"destroy  (function)"
+			],
+			[
+				"PAYM",
+				"PAYMENT_TYPES  (variable)"
+			],
+			[
+				"cr",
+				"create  (function)"
+			],
+			[
+				"ass",
+				"ass: assert_select"
+			],
+			[
+				"attri",
+				"attributes  (argument)"
+			],
+			[
+				"render",
+				"render  (function)"
+			],
+			[
+				"numb",
+				"number_to_currency  (function)"
+			],
+			[
+				"numbe",
+				"number_to_currency  (function)"
+			],
+			[
+				"Reco",
+				"RecordNotFound  (class)"
+			],
+			[
+				"cre",
+				"create  (function)"
+			],
+			[
+				"pro",
+				"proc  (function)"
+			],
+			[
+				"plu",
+				"pluralize  (function)"
+			],
+			[
+				"ul",
+				"ul: <ul>"
+			],
+			[
+				"find",
+				"find  (function)"
+			],
+			[
+				"cl",
+				"class=  (attribute)"
+			],
+			[
+				"nav",
+				"nav: <nav>"
+			],
+			[
+				"cla",
+				"class=  (attribute)"
+			],
+			[
+				"title",
+				"extend_with_included_modules_from  (function)"
+			],
+			[
+				"error",
+				"errors  (function)"
+			],
+			[
+				"each",
+				"each  (function)"
+			],
+			[
+				"val",
+				"validate  (function)"
+			],
+			[
+				"back",
+				"background:   (property)"
+			],
+			[
+				"text-al",
+				"text-align:   (property)"
+			],
+			[
+				"font-si",
+				"font-size:   (property)"
+			],
+			[
+				"marg",
+				"margin:   (property)"
+			],
+			[
+				"font-s",
+				"font-size:   (property)"
+			],
+			[
+				"font-w",
+				"font-weight:   (property)"
+			],
+			[
+				"top",
+				"top  (value)"
+			],
+			[
+				"vertica",
+				"vertical-align:   (property)"
+			],
+			[
+				"border-cola",
+				"border-collapse:   (property)"
+			],
+			[
+				"self",
+				"self  (function)"
+			],
+			[
+				"batches",
+				"batches  (variable)"
+			],
+			[
+				"rescue",
+				"rescue  (function)"
+			],
+			[
+				"batche",
+				"batches  (variable)"
+			],
+			[
+				"sold",
+				"save_without_validation  (function)"
+			],
+			[
+				"set",
+				"set_inheritance_column  (function)"
+			],
+			[
+				"gender",
+				"right_gender?  (function)"
+			],
+			[
+				"elsif",
+				"elsif: elsif ..."
+			],
+			[
+				"amount",
+				"private_methods  (function)"
+			],
+			[
+				"blo",
+				"block  (value)"
+			],
+			[
+				"form",
+				"form: form - Placeholder"
+			],
+			[
+				"puts",
+				"puts  (function)"
+			],
+			[
+				"compa",
+				"compact  (function)"
+			],
+			[
+				"validates",
+				"validates_associated  (function)"
+			],
+			[
+				"face",
+				"facebook  (argument)"
+			],
+			[
+				"tran",
+				"transparent  (value)"
+			],
+			[
+				"img",
+				"img: img"
+			],
+			[
+				"event",
+				"event_data  (variable)"
+			],
+			[
+				"cur",
+				"current_page  (argument)"
+			],
+			[
+				"facebook",
+				"facebook  (argument)"
+			],
+			[
+				"even",
+				"events_data  (variable)"
+			],
+			[
+				"events",
+				"events_data  (variable)"
+			],
+			[
+				"border-top-c",
+				"border-top-color"
+			],
+			[
+				"border-to",
+				"border-top"
+			],
+			[
+				"id",
+				"id	@id"
+			],
+			[
+				"helper",
+				"helper_method  (function)"
+			],
+			[
+				"ses",
+				"session  (function)"
+			],
+			[
+				"oauth",
+				"oauth_token  (argument)"
+			],
+			[
+				"page_",
+				"page_object  (variable)"
+			],
+			[
+				"page",
+				"page_object  (variable)"
+			],
+			[
+				"fil",
+				"filter_education_with_year  (function)"
+			],
+			[
+				"format",
+				"format_work"
+			],
+			[
+				"birth",
+				"birthday  (argument)"
+			],
+			[
+				"real_name",
+				"pluralize_table_names  (function)"
+			],
+			[
+				"user_info",
+				"user_info  (variable)"
+			],
+			[
+				"to_s",
+				"to_s  (function)"
+			],
+			[
+				"joi",
+				"join  (function)"
+			],
+			[
+				"sort",
+				"sort  (function)"
+			],
+			[
+				"join",
+				"join  (function)"
+			],
+			[
+				"Array",
+				"Array: Array.new(10) { |i| .. }"
+			],
+			[
+				"user",
+				"user_info  (variable)"
+			],
+			[
+				"fac",
+				"facebook  (function)"
+			],
+			[
+				"before",
+				"before_create  (function)"
+			],
+			[
+				"sa",
+				"save-history  (module)"
+			],
+			[
+				"h",
+				"history  (module)"
+			],
+			[
+				"ext",
+				"ext  (directory)"
+			],
+			[
+				"show",
+				"show  (function)"
+			],
+			[
+				"hi",
+				"hide  (function)"
+			],
+			[
+				"RegExp",
+				"RegExp  (class)"
+			],
+			[
+				"ea",
+				"each  (function)"
+			],
+			[
+				"va",
+				"val  (function)"
+			],
+			[
+				"key",
+				"keyup  (function)"
+			],
+			[
+				"eq",
+				"eq  (function)"
+			],
+			[
+				"rev",
+				"rev  (argument)"
+			],
+			[
+				"round",
+				"round  (function)"
+			],
+			[
+				"pos",
+				"pos  (argument)"
+			],
+			[
+				"class",
+				"class	@class"
+			],
+			[
+				"el",
+				"bindAsEventListener  (function)"
+			],
+			[
+				"off",
+				"offset  (function)"
+			],
+			[
+				"the_da",
+				"theme_date  (function)"
+			],
+			[
+				"href",
+				"_fetch_remote_file"
+			],
+			[
+				"value",
+				"value_1  (variable)"
+			],
+			[
+				"link",
+				"link: link - alternate"
+			],
+			[
+				"html",
+				"html: html"
+			],
+			[
+				"get_blo",
+				"get_bloginfo  (function)"
+			],
+			[
+				"getWeatherIma",
+				"getWeatherImage  (function)"
+			],
+			[
+				"arr",
+				"array: $… = array (…)"
+			],
+			[
+				"shuffle",
+				"shuffle  (function)"
+			],
+			[
+				"col",
+				"color: color: rgb"
+			],
+			[
+				"margin-le",
+				"margin-left:   (property)"
+			],
+			[
+				"padding-le",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"input",
+				"input: input - text"
+			],
+			[
+				"background",
+				"background-clip:   (property)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/config.coffee",
+			"settings":
+			{
+				"buffer_size": 772,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/users.coffee",
+			"settings":
+			{
+				"buffer_size": 976,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/articles.coffee",
+			"settings":
+			{
+				"buffer_size": 2173,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/express.coffee",
+			"settings":
+			{
+				"buffer_size": 2019,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"lates",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"gisup",
+				"Gist: Update File"
+			],
+			[
+				"gist",
+				"Gist: Update File"
+			],
+			[
+				"gis",
+				"Gist: Create Public Gist"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"coffees",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"togglmin",
+				"View: Toggle Minimap"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"togglsi",
+				"View: Toggle Side Bar"
+			],
+			[
+				"snrail",
+				"Snippet: rails-project-config"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"ta",
+				"Tasks: New document"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fetch",
+				"Fetch: Manage remote files"
+			],
+			[
+				"backbone",
+				"Snippet: Backbone Collection"
+			],
+			[
+				"snippba",
+				"Snippet: Backbone.Marionette Application"
+			],
+			[
+				"snicons",
+				"Snippet: Backbone requirejs Module definition"
+			],
+			[
+				"snieach",
+				"Snippet: each"
+			],
+			[
+				"snifil",
+				"Snippet: filter (function)"
+			],
+			[
+				"snipp",
+				"Snippet: erb"
+			],
+			[
+				"snih",
+				"Snippet: h1"
+			],
+			[
+				"snipph",
+				"Snippet: h1"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"tgglsi",
+				"View: Toggle Side Bar"
+			],
+			[
+				"togglop",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tggl",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"toggl",
+				"Bookmarks: Toggle"
+			],
+			[
+				"minma",
+				"View: Toggle Minimap"
+			],
+			[
+				"projsa",
+				"Project: Save As"
+			],
+			[
+				"panel",
+				"RubyTest: Show Test Panel"
+			],
+			[
+				"sbar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"show",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"settin",
+				"Preferences: Default File Settings"
+			],
+			[
+				"rail",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"use",
+				"Preferences: User Global Settings"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/test/app.test.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/test/app.test.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/nodejs-demo.sublime-project",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/controllers/articles.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/controllers/articles.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/controllers/users.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/controllers/users.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/controllers/tags.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/controllers/tags.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/controllers/comments.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/controllers/comments.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/server.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/express.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/passport.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/middlewares/authorization.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/models/user.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/views/articles/index.jade",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/middlewares/view.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/models/comment.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/models/article.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/models/article.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/app/models/comment.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/middlewares/view.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/middlewares/authorization.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/routes.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/routes.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/imager.coffee",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/imager.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/express.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/config.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/server.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/config.example.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/config/imager.example.js",
+		"/Users/Guga/Desktop/Node/nodejs-express-mongoose-demo/package.json",
+		"/Users/Guga/Desktop/Node/hello-node/app.js",
+		"/Users/Guga/Desktop/Node/hello-node/package.json",
+		"/Users/Guga/Sites/engage/mineo/app/assets/javascripts/app/views/projects/comments.js.coffee",
+		"/Users/Guga/Sites/engage/mineo/app/controllers/comments_controller.rb",
+		"/Users/Guga/Sites/engage/mineo/spec/spec_helper.rb",
+		"/Users/Guga/Sites/engage/mineo/spec/controllers/comments_controller_spec.rb",
+		"/Users/Guga/Sites/engage/mineo/spec/controllers/projects_controller_spec.rb",
+		"/Users/Guga/Sites/engage/mineo/spec/models/illustration_spec.rb",
+		"/Users/Guga/Sites/engage/mineo/spec/models/project_spec.rb",
+		"/Users/Guga/Sites/engage/mineo/.git/config",
+		"/Users/Guga/Sites/engage/mineo/app/views/layouts/application.html.slim",
+		"/Users/Guga/Sites/engage/mineo/spec/support/blueprints.rb",
+		"/Users/Guga/Sites/engage/mineo/app/views/projects/_social_plugins.html.slim",
+		"/Users/Guga/Sites/engage/mineo/Gemfile",
+		"/Users/Guga/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Guga/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Guga/Sites/engage/mineo/app/models/illustration.rb",
+		"/Users/Guga/Sites/engage/mineo/app/admin/illustrations.rb",
+		"/Users/Guga/Sites/engage/mineo/.rspec",
+		"/Users/Guga/Sites/engage/mineo/config/environment.rb",
+		"/Users/Guga/Sites/engage/mineo/app/models/project.rb",
+		"/Users/Guga/Sites/engage/mineo/app/views/projects/show.html.slim",
+		"/Users/Guga/Sites/engage/mineo/zeus.json",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/application.sass",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/miv/generic.css.sass",
+		"/Users/Guga/Sites/engage/mineo/config/environments/test.rb",
+		"/Users/Guga/Sites/engage/mineo/app/assets/javascripts/lib/jquery.scrollTo-min.js",
+		"/Users/Guga/Sites/engage/mineo/config/environments/production.rb",
+		"/Users/Guga/Sites/engage/mineo/app/uploaders/illustration_uploader.rb",
+		"/Users/Guga/Sites/engage/mineo/db/schema.rb",
+		"/Users/Guga/Sites/engage/mineo/app/views/projects/_sidebar_content.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/resources/projects/show.css.sass",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/resources/home/index.css.sass",
+		"/Users/Guga/Sites/engage/mineo/config/routes.rb",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/miv/settings.css.sass",
+		"/Users/Guga/Sites/engage/mineo/config/database.yml",
+		"/Users/Guga/Sites/engage/mineo/app/admin/admin_users.rb",
+		"/Users/Guga/Sites/engage/mineo/app/views/shared/_flash.html.slim",
+		"/Users/Guga/Sites/engage/mineo/db/migrate/20120927132812_add_image_oid_to_illustrations.rb",
+		"/Users/Guga/Sites/engage/mineo/config/initializers/sendgrid.rb",
+		"/Users/Guga/Sublime Projects/mineo.sublime-project",
+		"/Users/Guga/Sites/engage/mineo/app/views/shared/_facebook_meta_tags.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/views/shared/_header.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/admin/users.rb",
+		"/Users/Guga/Sites/engage/mineo/app/models/user.rb",
+		"/Users/Guga/.bash_profile",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/resources/projects/project.css.sass",
+		"/Users/Guga/Sites/engage/mineo/app/admin/exemption_codes.rb",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/forms/project.css.sass",
+		"/Users/Guga/Sites/engage/mineo/config/initializers/active_admin.rb",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/footer.css.sass",
+		"/Users/Guga/Sites/engage/mineo/app/views/shared/_footer.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/views/users/show.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/views/projects/_edit_project_box.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/views/projects/_publish_project.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/views/home/index.html.slim",
+		"/Users/Guga/Sites/engage/festivaldeideias/.git/config",
+		"/Users/Guga/Sites/engage/mineo/app/views/devise/registrations/edit.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/forms/login.css.sass",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/resources/statics/static.css.sass",
+		"/Users/Guga/Sites/engage/mineo/app/assets/javascripts/app/views/home/index.js.coffee",
+		"/Users/Guga/Sites/engage/mineo/app/views/statics/about.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/views/statics/calls.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/views/statics/terms.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/views/statics/thanks.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/views/statics/help.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/resources/statics/terms.css.sass",
+		"/Users/Guga/Sites/engage/mineo/app/controllers/statics_controller.rb",
+		"/Users/Guga/Sites/engage/mineo/spec/requests/exemption_codes_spec.rb",
+		"/Users/Guga/Sites/engage/mineo/app/assets/javascripts/app/views/projects/form.js.coffee",
+		"/Users/Guga/Sites/engage/mineo/app/views/projects/_similar_product.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/views/projects/_form.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/header.css.sass",
+		"/Users/Guga/Sites/engage/mineo/spec/requests/statics_spec.rb",
+		"/Users/Guga/Sites/engage/mineo/config/navigation.rb",
+		"/Users/Guga/Sites/engage/mineo/app/views/shared/_user_actions.html.slim",
+		"/Users/Guga/Sites/engage/mineo/spec/views/statics/calls.html.slim_spec.rb",
+		"/Users/Guga/Sites/engage/mineo/spec/views/statics/about.html.slim_spec.rb",
+		"/Users/Guga/Sites/engage/mineo/spec/controllers/statics_controller_spec.rb",
+		"/Users/Guga/Sites/engage/mineo/db/migrate/20121121171622_add_about_material_to_projects.rb",
+		"/Users/Guga/Sites/engage/mineo/app/views/projects/new.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/miv/custom_mixins.css.sass",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/miv/boxes.css.sass",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/home.css.sass",
+		"/Users/Guga/Sites/engage/mineo/.gitignore",
+		"/Users/Guga/Sites/engage/mineo/app/assets/javascripts/app.js.coffee",
+		"/Users/Guga/Sites/engage/mineo/app/assets/javascripts/app/home/index.js.coffee",
+		"/Users/Guga/Sites/engage/mineo/app/controllers/home_controller.rb",
+		"/Users/Guga/Sites/engage/mineo/app/assets/javascripts/app/views/projects/index.js.coffee",
+		"/Users/Guga/Sites/engage/mineo/app/assets/javascripts/app/views/miv/index.js.coffee",
+		"/Users/Guga/Sites/engage/mineo/app/assets/javascripts/application.js",
+		"/Users/Guga/Sites/engage/mineo/app/views/projects/index.html.slim",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/miv/miv.css.sass",
+		"/Users/Guga/Sites/engage/mineo/app/assets/stylesheets/miv/buttons.css.sass"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"middlewares/",
+			"view",
+			"+qs.stringify(params)+",
+			"?#{",
+			"\"\"",
+			"require(",
+			"\nvar mongoose = require('mongoose')\n  , Article = mongoose.model('Article')\n  , User = mongoose.model('User')\n  , async = require('async')\n\nmodule.exports = function (app, passport, auth) {\n",
+			"else",
+			"// ",
+			".get(",
+			"get(",
+			"\n  ",
+			", ",
+			"var ",
+			", ",
+			"require(",
+			"post",
+			".",
+			"super+shift",
+			"html_body",
+			"red",
+			"sass_dir",
+			"compass",
+			"image",
+			"simple",
+			"SENDGRID_USERNAME",
+			"ENV",
+			"utf-8",
+			"float: left",
+			"last",
+			"column",
+			"user_page",
+			"publish_proj",
+			"location",
+			"h5",
+			"h3",
+			"MINEO",
+			"Mineo",
+			"MINEO",
+			"mineo",
+			"MINEO",
+			"terms",
+			"#terms",
+			"@extend",
+			"_path,",
+			"'",
+			"&amp;",
+			"offset",
+			"linear",
+			"background",
+			"@content\n      @media only",
+			"+1",
+			"-1",
+			"content",
+			", @media only",
+			"apply_to",
+			"iphone",
+			"iPhone",
+			"landscape",
+			"$ltgt",
+			"screen and",
+			"landscape",
+			"iphone",
+			"#{$folder}",
+			"sprites",
+			"}",
+			"{",
+			";",
+			"@mixin",
+			";",
+			"placeholder",
+			"#{image_path(\"banner/",
+			"#",
+			";",
+			"4998AC",
+			"06b4",
+			"06b",
+			".",
+			"comment-info",
+			"softa",
+			"upvotes",
+			"most-commented",
+			".project-box",
+			"idea",
+			"scope",
+			"column",
+			"row",
+			"darken(white, 50%)",
+			"20%",
+			"transio",
+			"parents",
+			"comment-form-elements",
+			"require",
+			"requi",
+			"field",
+			"/",
+			"//",
+			"field",
+			"	",
+			"url",
+			";",
+			"radius",
+			".radius",
+			".round",
+			"round",
+			"color",
+			".clear",
+			"answ",
+			"remove_field",
+			";",
+			"overfl",
+			"updateRemove",
+			"scroll",
+			"project",
+			"project_illustration_upload",
+			"project",
+			"illustra",
+			"Illustration",
+			"illustration",
+			"addToList",
+			"bindCallback",
+			"bindCallbackToDeleteLinks",
+			"addIllustrationToList",
+			"project_illustrations",
+			"Project",
+			"init",
+			"illustration_upload",
+			"anexar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/config.coffee",
+					"settings":
+					{
+						"buffer_size": 772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								772,
+								772
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/users.coffee",
+					"settings":
+					{
+						"buffer_size": 976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/articles.coffee",
+					"settings":
+					{
+						"buffer_size": 2173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "config/express.coffee",
+					"settings":
+					{
+						"buffer_size": 2019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 596.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"app/views/articles/index.jade"
+			],
+			[
+				"ath",
+				"config/middlewares/authorization.coffee"
+			],
+			[
+				"applisli",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"commenjs",
+				"app/assets/javascripts/app/views/projects/comments.js.coffee"
+			],
+			[
+				"commentcont",
+				"app/controllers/comments_controller.rb"
+			],
+			[
+				"speh",
+				"spec/spec_helper.rb"
+			],
+			[
+				"projcontsp",
+				"spec/controllers/projects_controller_spec.rb"
+			],
+			[
+				"illussp",
+				"spec/models/illustration_spec.rb"
+			],
+			[
+				"blue",
+				"spec/support/blueprints.rb"
+			],
+			[
+				"spec",
+				"spec/models/project_spec.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"aplsli",
+				"app/views/projects/_social_plugins.html.slim"
+			],
+			[
+				"models/i",
+				"app/models/illustration.rb"
+			],
+			[
+				".rsp",
+				".rspec"
+			],
+			[
+				"envites",
+				"config/environments/test.rb"
+			],
+			[
+				"spech",
+				"spec/spec_helper.rb"
+			],
+			[
+				"envim",
+				"config/environment.rb"
+			],
+			[
+				"proje",
+				"app/models/project.rb"
+			],
+			[
+				"proshow",
+				"app/views/projects/show.html.slim"
+			],
+			[
+				"zeus",
+				"zeus.json"
+			],
+			[
+				"envpro",
+				"config/environments/production.rb"
+			],
+			[
+				"appl",
+				"app/assets/stylesheets/application.sass"
+			],
+			[
+				"sass",
+				"app/assets/stylesheets/miv/generic.css.sass"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"uploa",
+				"app/uploaders/illustration_uploader.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"il",
+				"app/models/illustration.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"",
+				"Gemfile"
+			],
+			[
+				"fla",
+				"app/views/shared/_flash.html.slim"
+			],
+			[
+				"applisl",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"projshow",
+				"app/views/projects/show.html.slim"
+			],
+			[
+				"face",
+				"app/views/shared/_facebook_meta_tags.html.slim"
+			],
+			[
+				"header",
+				"app/views/shared/_header.html.slim"
+			],
+			[
+				"applsl",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"use",
+				"app/models/user.rb"
+			],
+			[
+				"sideba",
+				"app/views/projects/_sidebar_content.html.slim"
+			],
+			[
+				"proshowsas",
+				"app/assets/stylesheets/resources/projects/show.css.sass"
+			],
+			[
+				"projesa",
+				"app/assets/stylesheets/resources/projects/project.css.sass"
+			],
+			[
+				"homesass",
+				"app/assets/stylesheets/resources/home/index.css.sass"
+			],
+			[
+				"foote",
+				"app/views/shared/_footer.html.slim"
+			],
+			[
+				"projshowsl",
+				"app/views/projects/show.html.slim"
+			],
+			[
+				"projsas",
+				"app/assets/stylesheets/forms/project.css.sass"
+			],
+			[
+				"prosass",
+				"app/assets/stylesheets/resources/projects/project.css.sass"
+			],
+			[
+				"projsho",
+				"app/views/projects/show.html.slim"
+			],
+			[
+				"sid",
+				"app/views/projects/_sidebar_content.html.slim"
+			],
+			[
+				"sidesass",
+				"app/assets/stylesheets/resources/home/index.css.sass"
+			],
+			[
+				"projesass",
+				"app/assets/stylesheets/resources/projects/project.css.sass"
+			],
+			[
+				"publi",
+				"app/views/projects/_publish_project.html.slim"
+			],
+			[
+				"prosho",
+				"app/views/projects/show.html.slim"
+			],
+			[
+				"home",
+				"app/views/home/index.html.slim"
+			],
+			[
+				"userrb",
+				"app/models/user.rb"
+			],
+			[
+				"logisa",
+				"app/assets/stylesheets/forms/login.css.sass"
+			],
+			[
+				"projesho",
+				"app/views/projects/show.html.slim"
+			],
+			[
+				"usersho",
+				"app/views/users/show.html.slim"
+			],
+			[
+				"statisas",
+				"app/assets/stylesheets/resources/statics/static.css.sass"
+			],
+			[
+				"foot",
+				"app/views/shared/_footer.html.slim"
+			],
+			[
+				"homejs",
+				"app/assets/javascripts/app/views/home/index.js.coffee"
+			],
+			[
+				"homesas",
+				"app/assets/stylesheets/resources/home/index.css.sass"
+			],
+			[
+				"homein",
+				"app/views/home/index.html.slim"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"abou",
+				"app/views/statics/about.html.slim"
+			],
+			[
+				"than",
+				"app/views/statics/thanks.html.slim"
+			],
+			[
+				"help",
+				"app/views/statics/help.html.slim"
+			],
+			[
+				"homesli",
+				"app/views/home/index.html.slim"
+			],
+			[
+				"hea",
+				"app/views/shared/_header.html.slim"
+			],
+			[
+				"applisas",
+				"app/assets/stylesheets/application.sass"
+			],
+			[
+				"gene",
+				"app/assets/stylesheets/miv/generic.css.sass"
+			],
+			[
+				"thank",
+				"app/views/statics/thanks.html.slim"
+			],
+			[
+				"sta",
+				"app/controllers/statics_controller.rb"
+			],
+			[
+				"ter",
+				"app/views/statics/terms.html.slim"
+			],
+			[
+				"static",
+				"app/controllers/statics_controller.rb"
+			],
+			[
+				"calls",
+				"app/views/statics/calls.html.slim"
+			],
+			[
+				"statiab",
+				"app/views/statics/about.html.slim"
+			],
+			[
+				"requestsspec",
+				"spec/requests/statics_spec.rb"
+			],
+			[
+				"navi",
+				"config/navigation.rb"
+			],
+			[
+				"userac",
+				"app/views/shared/_user_actions.html.slim"
+			],
+			[
+				"reques",
+				"spec/requests/exemption_codes_spec.rb"
+			],
+			[
+				"staticspec",
+				"spec/views/statics/calls.html.slim_spec.rb"
+			],
+			[
+				"staticabousp",
+				"spec/views/statics/about.html.slim_spec.rb"
+			],
+			[
+				"da",
+				"config/database.yml"
+			],
+			[
+				"formcoffee",
+				"app/assets/javascripts/app/views/projects/form.js.coffee"
+			],
+			[
+				"simila",
+				"app/views/projects/_similar_product.html.slim"
+			],
+			[
+				"projfor",
+				"app/views/projects/_form.html.slim"
+			],
+			[
+				"prone",
+				"app/views/projects/new.html.slim"
+			],
+			[
+				"applsa",
+				"app/assets/stylesheets/application.sass"
+			],
+			[
+				"indesas",
+				"app/assets/stylesheets/resources/home/index.css.sass"
+			],
+			[
+				"head",
+				"app/assets/stylesheets/header.css.sass"
+			],
+			[
+				"prosa",
+				"app/assets/stylesheets/resources/projects/project.css.sass"
+			],
+			[
+				"boxe",
+				"app/assets/stylesheets/miv/boxes.css.sass"
+			],
+			[
+				"footersass",
+				"app/assets/stylesheets/footer.css.sass"
+			],
+			[
+				"mixi",
+				"app/assets/stylesheets/miv/custom_mixins.css.sass"
+			],
+			[
+				"homecof",
+				"app/assets/javascripts/app/views/home/index.js.coffee"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"appjsco",
+				"app/assets/javascripts/app.js.coffee"
+			],
+			[
+				"user_ac",
+				"app/views/shared/_user_actions.html.slim"
+			],
+			[
+				"homecon",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"appsass",
+				"app/assets/stylesheets/application.sass"
+			],
+			[
+				"appjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"proind",
+				"app/views/projects/index.html.slim"
+			],
+			[
+				"mivsass",
+				"app/assets/stylesheets/miv/miv.css.sass"
+			],
+			[
+				"appsas",
+				"app/assets/stylesheets/application.sass"
+			],
+			[
+				"settsa",
+				"app/assets/stylesheets/miv/settings.css.sass"
+			],
+			[
+				"setto",
+				"app/assets/stylesheets/miv/buttons.css.sass"
+			],
+			[
+				"homesa",
+				"app/assets/stylesheets/home.css.sass"
+			],
+			[
+				"applsli",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"commjs",
+				"app/assets/javascripts/app/views/projects/comments.js.coffee"
+			],
+			[
+				"projsass",
+				"app/assets/stylesheets/forms/project.css.sass"
+			],
+			[
+				"commejs",
+				"app/assets/javascripts/app/views/projects/comments.js.coffee"
+			],
+			[
+				"commensass",
+				"app/assets/stylesheets/resources/projects/comments.css.sass"
+			],
+			[
+				"commsli",
+				"app/views/comments/_comment.html.slim"
+			],
+			[
+				"projecon",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"pro",
+				"app/models/project.rb"
+			],
+			[
+				"_pro",
+				"app/views/projects/_project.html.slim"
+			],
+			[
+				"proindex",
+				"app/views/projects/index.html.slim"
+			],
+			[
+				"prshowsass",
+				"app/assets/stylesheets/resources/projects/show.css.sass"
+			],
+			[
+				"publish",
+				"app/views/projects/_publish_project.html.slim"
+			],
+			[
+				"projeshosli",
+				"app/views/projects/show.html.slim"
+			],
+			[
+				"homeslim",
+				"app/views/home/index.html.slim"
+			],
+			[
+				"rojesass",
+				"app/assets/stylesheets/forms/project.css.sass"
+			],
+			[
+				"applcss",
+				"app/assets/stylesheets/application.sass"
+			],
+			[
+				"commnt",
+				"app/models/comment.rb"
+			],
+			[
+				"usershow",
+				"app/views/users/show.html.slim"
+			],
+			[
+				"homeind",
+				"app/views/home/index.html.slim"
+			],
+			[
+				"controller",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"footsa",
+				"app/assets/stylesheets/footer.css.sass"
+			],
+			[
+				"projsa",
+				"app/assets/stylesheets/resources/projects/project.css.sass"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"gus",
+				"/Users/Guga/Sublime Projects/gustavoguichard.sublime-project"
+			],
+			[
+				"fdi",
+				"/Users/Guga/Sublime Projects/festivaldeideias.sublime-project"
+			],
+			[
+				"fesi",
+				"/Users/Guga/Sublime Projects/festivaldeideias.sublime-project"
+			],
+			[
+				"min",
+				"/Users/Guga/Sublime Projects/mineo.sublime-project"
+			],
+			[
+				"seman",
+				"/Users/Guga/Sublime Projects/semantic-mixins.sublime-project"
+			],
+			[
+				"rs",
+				"/Users/Guga/Sublime Projects/rsonrails.sublime-project"
+			],
+			[
+				"man",
+				"/Users/Guga/Sublime Projects/manguezal.sublime-project"
+			],
+			[
+				"f",
+				"/Users/Guga/Sublime Projects/festivaldeideias.sublime-project"
+			],
+			[
+				"sa",
+				"/Users/Guga/Sublime Projects/sapecapaz.sublime-project"
+			],
+			[
+				"sape",
+				"/Users/Guga/Sublime Projects/sapecapaz.sublime-project"
+			],
+			[
+				"cri",
+				"/Users/Guga/Sublime Projects/criaideias.sublime-project"
+			],
+			[
+				"fes",
+				"/Users/Guga/Sublime Projects/festivaldeideias.sublime-project"
+			],
+			[
+				"mang",
+				"/Users/Guga/Sublime Projects/manguezal.sublime-project"
+			],
+			[
+				"mangu",
+				"/Users/Guga/Sublime Projects/manguezal.sublime-project"
+			],
+			[
+				"cbc",
+				"/Users/Guga/Sublime Projects/cbc.sublime-project"
+			],
+			[
+				"sim",
+				"/Users/Guga/Sublime Projects/sim.sublime-project"
+			],
+			[
+				"ska",
+				"/Users/Guga/Sublime Projects/skateapp.sublime-project"
+			],
+			[
+				"fd",
+				"/Users/Guga/Sublime Projects/festivaldeideias.sublime-project"
+			],
+			[
+				"cb",
+				"/Users/Guga/Sublime Projects/cbc.sublime-project"
+			],
+			[
+				"samba",
+				"/Users/Guga/Sublime Projects/samba.sublime-project"
+			],
+			[
+				"si",
+				"/Users/Guga/Sublime Projects/sim.sublime-project"
+			],
+			[
+				"sam",
+				"/Users/Guga/Library/Application Support/Sublime Text 2/Packages/sambaestudio.sublime-project"
+			],
+			[
+				"bil",
+				"/Users/Guga/Sublime Projects/bilheteria.sublime-project"
+			],
+			[
+				"",
+				"/Users/Guga/Sublime Projects/giseledemenezes.sublime-project"
+			],
+			[
+				"br",
+				"/Users/Guga/Sublime Projects/brasilian.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true
+}

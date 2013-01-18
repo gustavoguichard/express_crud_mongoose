@@ -1,5 +1,5 @@
 {
-    "name": "noobjs"
+    "name": "node-example"
   , "description": "A demo app in nodejs illustrating use of express, jade and mogoose"
   , "version": "3.0.0"
   , "private": false
@@ -9,7 +9,7 @@
       , "npm": "1.1.9"
     }
   , "scripts": {
-      "start": "./node_modules/.bin/nodemon server.js"
+      "start": "nodemon server.js"
     }
   , "dependencies": {
       "express": "latest"
