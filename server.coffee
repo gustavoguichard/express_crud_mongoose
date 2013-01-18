@@ -17,6 +17,7 @@ mongoOptions = { db: { safe: true }}
 mongoose.connect config.db, mongoOptions, (err, res)->
   if err
     console.log "ERROR connecting to: #{config.db}. #{err}"
+
 mongoose.connection.on 'open', ->
   # Bootstrap models
   models_path = __dirname + '/app/models'

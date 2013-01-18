@@ -27,7 +27,7 @@ module.exports = {
     root: require('path').normalize(__dirname + '/..')
     app:
       name: 'Nodejs Express Mongoose Demo'
-    db: process.env.MONGOLAB_URI
+    db: process.env.MONGOHQ_URI || process.env.MONGOLAB_URI
     facebook:
       clientID: "APP_ID"
       clientSecret: "APP_SECRET"
