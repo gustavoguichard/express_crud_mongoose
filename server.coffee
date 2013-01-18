@@ -10,8 +10,13 @@ config = require('./config/config')[env]
 auth = require './config/middlewares/authorization'
 mongoose = require 'mongoose'
 
+# Ensure safe writes
+mongoOptions = { db: { safe: true }}
+
 # Bootstrap db connection
-mongoose.connect config.db
+mongoose.connect config.db, mongoOptions, (err, res)->
+  if err
+    console.log "ERROR connecting to: #{config.db}. #{err}"
 
 # Bootstrap models
 models_path = __dirname + '/app/models'
